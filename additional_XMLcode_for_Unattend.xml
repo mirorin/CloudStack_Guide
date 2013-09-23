@@ -1,0 +1,6 @@
+            <FirstLogonCommands>
+                <SynchronousCommand wcm:action="add">
+                <CommandLine>c:\Windows\System32\Sysprep\key-install-2008r2.bat</CommandLine>
+                <Order>1</Order>
+                </SynchronousCommand>
+            </FirstLogonCommands>
